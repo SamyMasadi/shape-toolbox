@@ -41,4 +41,4 @@ Please enter the third side length: 400
 It will print the calculated details in the console and draw the shape in a new window.
 
 ## Author
-Samy Masadi
+Samy Masadi - https://github.com/SamyMasadi
