@@ -3,12 +3,13 @@ This is a shape toolbox that will calculate the area and circumference/perimeter
 for a variety of shapes: square, rectangle, circle, and triangle.
 
 ## Required Software
-Install Java version 8 or higher. Download it here: https://www.java.com/en/download/
+* To run: [Java version 8 or higher](https://www.java.com/en/download/)
+* To compile: [Java SE Development Kit](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
 ## How to Compile
 In a terminal, cd to the "src" directory. Compile each .java file like the following example:
 ```
-java ShapeToolbox.java
+javac ShapeToolbox.java
 ```
 
 ## How to Run
